@@ -23,3 +23,7 @@ sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_
 **Install R and its dependencies**
 
 sudo apt install --no-install-recommends r-base
+
+**Add CRAN packages**
+
+sudo add-apt-repository ppa:c2d4u.team/c2d4u4.0+
